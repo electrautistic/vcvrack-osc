@@ -1,0 +1,8170 @@
+{
+  "version": "1.1.6",
+  "modules": [
+    {
+      "id": 152,
+      "plugin": "trowaSoft",
+      "version": "1.0.3",
+      "model": "cvOSCcv",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 1.0
+        },
+        {
+          "id": 9,
+          "value": 1.0
+        },
+        {
+          "id": 10,
+          "value": 0.0
+        },
+        {
+          "id": 11,
+          "value": 1.0
+        },
+        {
+          "id": 12,
+          "value": 0.0
+        },
+        {
+          "id": 13,
+          "value": 0.0
+        },
+        {
+          "id": 14,
+          "value": 0.0
+        },
+        {
+          "id": 15,
+          "value": 0.0
+        },
+        {
+          "id": 16,
+          "value": 0.0
+        },
+        {
+          "id": 17,
+          "value": 0.0
+        },
+        {
+          "id": 18,
+          "value": 0.0
+        },
+        {
+          "id": 19,
+          "value": 0.0
+        },
+        {
+          "id": 20,
+          "value": 0.0
+        },
+        {
+          "id": 21,
+          "value": 0.0
+        },
+        {
+          "id": 22,
+          "value": 0.0
+        },
+        {
+          "id": 23,
+          "value": 0.0
+        },
+        {
+          "id": 24,
+          "value": 0.0
+        },
+        {
+          "id": 25,
+          "value": 0.0
+        },
+        {
+          "id": 26,
+          "value": 0.0
+        },
+        {
+          "id": 27,
+          "value": 0.0
+        },
+        {
+          "id": 28,
+          "value": 0.0
+        },
+        {
+          "id": 29,
+          "value": 1.0
+        },
+        {
+          "id": 30,
+          "value": 1.0
+        },
+        {
+          "id": 31,
+          "value": 1.0
+        },
+        {
+          "id": 32,
+          "value": 1.0
+        },
+        {
+          "id": 33,
+          "value": 1.0
+        },
+        {
+          "id": 34,
+          "value": 1.0
+        },
+        {
+          "id": 35,
+          "value": 1.0
+        },
+        {
+          "id": 36,
+          "value": 1.0
+        }
+      ],
+      "rightModuleId": 164,
+      "data": {
+        "version": 17,
+        "osc": {
+          "IpAddress": "127.0.0.1",
+          "TxPort": 8001,
+          "RxPort": 7001,
+          "Namespace": "vcv",
+          "AutoReconnectAtLoad": false,
+          "Initialized": false
+        },
+        "numCh": 8,
+        "inputChannels": [
+          {
+            "path": "/ch/1",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0,
+            "channelSensitivity": 0.0500000007
+          },
+          {
+            "path": "/ch/2",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0,
+            "channelSensitivity": 0.0500000007
+          },
+          {
+            "path": "/ch/3",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0,
+            "channelSensitivity": 0.0500000007
+          },
+          {
+            "path": "/ch/4",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0,
+            "channelSensitivity": 0.0500000007
+          },
+          {
+            "path": "/ch/5",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0,
+            "channelSensitivity": 0.0500000007
+          },
+          {
+            "path": "/ch/6",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0,
+            "channelSensitivity": 0.0500000007
+          },
+          {
+            "path": "/ch/7",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0,
+            "channelSensitivity": 0.0500000007
+          },
+          {
+            "path": "/ch/8",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0,
+            "channelSensitivity": 0.0500000007
+          }
+        ],
+        "outputChannels": [
+          {
+            "path": "/fader/1",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/fader/2",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/fader/3",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/fader/4",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/fader/5",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/fader/6",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/fader/7",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/fader/8",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          }
+        ]
+      },
+      "pos": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": 155,
+      "plugin": "MindMeldModular",
+      "version": "1.1.12",
+      "model": "MixMasterJr",
+      "params": [
+        {
+          "id": 0,
+          "value": 1.01511919
+        },
+        {
+          "id": 1,
+          "value": 1.0
+        },
+        {
+          "id": 2,
+          "value": 1.0
+        },
+        {
+          "id": 3,
+          "value": 1.0
+        },
+        {
+          "id": 4,
+          "value": 1.0
+        },
+        {
+          "id": 5,
+          "value": 1.0
+        },
+        {
+          "id": 6,
+          "value": 1.0
+        },
+        {
+          "id": 7,
+          "value": 1.0
+        },
+        {
+          "id": 8,
+          "value": 1.0
+        },
+        {
+          "id": 9,
+          "value": 1.0
+        },
+        {
+          "id": 10,
+          "value": 0.5
+        },
+        {
+          "id": 11,
+          "value": 0.5
+        },
+        {
+          "id": 12,
+          "value": 0.5
+        },
+        {
+          "id": 13,
+          "value": 0.5
+        },
+        {
+          "id": 14,
+          "value": 0.5
+        },
+        {
+          "id": 15,
+          "value": 0.5
+        },
+        {
+          "id": 16,
+          "value": 0.5
+        },
+        {
+          "id": 17,
+          "value": 0.5
+        },
+        {
+          "id": 18,
+          "value": 0.5
+        },
+        {
+          "id": 19,
+          "value": 0.5
+        },
+        {
+          "id": 20,
+          "value": 0.0
+        },
+        {
+          "id": 21,
+          "value": 0.0
+        },
+        {
+          "id": 22,
+          "value": 0.0
+        },
+        {
+          "id": 23,
+          "value": 0.0
+        },
+        {
+          "id": 24,
+          "value": 0.0
+        },
+        {
+          "id": 25,
+          "value": 0.0
+        },
+        {
+          "id": 26,
+          "value": 0.0
+        },
+        {
+          "id": 27,
+          "value": 0.0
+        },
+        {
+          "id": 28,
+          "value": 0.0
+        },
+        {
+          "id": 29,
+          "value": 0.0
+        },
+        {
+          "id": 30,
+          "value": 0.0
+        },
+        {
+          "id": 31,
+          "value": 0.0
+        },
+        {
+          "id": 32,
+          "value": 0.0
+        },
+        {
+          "id": 33,
+          "value": 0.0
+        },
+        {
+          "id": 34,
+          "value": 0.0
+        },
+        {
+          "id": 35,
+          "value": 0.0
+        },
+        {
+          "id": 36,
+          "value": 0.0
+        },
+        {
+          "id": 37,
+          "value": 0.0
+        },
+        {
+          "id": 38,
+          "value": 0.0
+        },
+        {
+          "id": 39,
+          "value": 0.0
+        },
+        {
+          "id": 40,
+          "value": 0.0
+        },
+        {
+          "id": 41,
+          "value": 0.0
+        },
+        {
+          "id": 42,
+          "value": 0.0
+        },
+        {
+          "id": 43,
+          "value": 1.0
+        },
+        {
+          "id": 44,
+          "value": 0.0
+        },
+        {
+          "id": 45,
+          "value": 0.0
+        },
+        {
+          "id": 46,
+          "value": 0.0
+        },
+        {
+          "id": 47,
+          "value": 0.0
+        },
+        {
+          "id": 48,
+          "value": 0.0
+        },
+        {
+          "id": 49,
+          "value": 0.0
+        },
+        {
+          "id": 50,
+          "value": 0.0
+        },
+        {
+          "id": 51,
+          "value": 0.0
+        },
+        {
+          "id": 52,
+          "value": 13.0
+        },
+        {
+          "id": 53,
+          "value": 13.0
+        },
+        {
+          "id": 54,
+          "value": 13.0
+        },
+        {
+          "id": 55,
+          "value": 13.0
+        },
+        {
+          "id": 56,
+          "value": 13.0
+        },
+        {
+          "id": 57,
+          "value": 13.0
+        },
+        {
+          "id": 58,
+          "value": 13.0
+        },
+        {
+          "id": 59,
+          "value": 13.0
+        },
+        {
+          "id": 60,
+          "value": 20010.0
+        },
+        {
+          "id": 61,
+          "value": 20010.0
+        },
+        {
+          "id": 62,
+          "value": 20010.0
+        },
+        {
+          "id": 63,
+          "value": 20010.0
+        },
+        {
+          "id": 64,
+          "value": 20010.0
+        },
+        {
+          "id": 65,
+          "value": 20010.0
+        },
+        {
+          "id": 66,
+          "value": 20010.0
+        },
+        {
+          "id": 67,
+          "value": 20010.0
+        },
+        {
+          "id": 68,
+          "value": 13.0
+        },
+        {
+          "id": 69,
+          "value": 13.0
+        },
+        {
+          "id": 70,
+          "value": 20010.0
+        },
+        {
+          "id": 71,
+          "value": 20010.0
+        }
+      ],
+      "leftModuleId": 166,
+      "rightModuleId": 200,
+      "data": {
+        "trackLabels": "-01--02--03--04--05--06--07--08-GRP1GRP2",
+        "panLawMono": 1,
+        "panLawStereo": 1,
+        "directOutsMode": 3,
+        "directOutsSkipGroupedTracks": 0,
+        "auxSendsMode": 3,
+        "groupsControlTrackSendLevels": 0,
+        "auxReturnsMutedWhenMainSolo": 0,
+        "auxReturnsSolosMuteDry": 0,
+        "chainMode": 0,
+        "colorAndCloak": 117441792,
+        "symmetricalFade": false,
+        "fadeCvOutsWithVolCv": false,
+        "linkBitMask": 0,
+        "filterPos": 1,
+        "groupedAuxReturnFeedbackProtection": 1,
+        "ecoMode": 65535,
+        "faders": [
+          1.01511919,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "momentaryCvButtons": 1,
+        "masterFaderScalesSends": 0,
+        "linearVolCvInputs": 0,
+        "id_t0_gainAdjust": 1.0,
+        "id_t0_fadeRate": 0.0,
+        "id_t0_fadeProfile": 0.0,
+        "id_t0_directOutsMode": 3,
+        "id_t0_auxSendsMode": 3,
+        "id_t0_panLawStereo": 1,
+        "id_t0_vuColorThemeLocal": 0,
+        "id_t0_filterPos": 1,
+        "id_t0_dispColorLocal": 0,
+        "id_t0_polyStereo": 0,
+        "id_t0_panCvLevel": 1.0,
+        "id_t0_stereoWidth": 1.0,
+        "id_t0_invertInput": 0,
+        "id_t1_gainAdjust": 1.0,
+        "id_t1_fadeRate": 0.0,
+        "id_t1_fadeProfile": 0.0,
+        "id_t1_directOutsMode": 3,
+        "id_t1_auxSendsMode": 3,
+        "id_t1_panLawStereo": 1,
+        "id_t1_vuColorThemeLocal": 0,
+        "id_t1_filterPos": 1,
+        "id_t1_dispColorLocal": 0,
+        "id_t1_polyStereo": 0,
+        "id_t1_panCvLevel": 1.0,
+        "id_t1_stereoWidth": 1.0,
+        "id_t1_invertInput": 0,
+        "id_t2_gainAdjust": 1.0,
+        "id_t2_fadeRate": 0.0,
+        "id_t2_fadeProfile": 0.0,
+        "id_t2_directOutsMode": 3,
+        "id_t2_auxSendsMode": 3,
+        "id_t2_panLawStereo": 1,
+        "id_t2_vuColorThemeLocal": 0,
+        "id_t2_filterPos": 1,
+        "id_t2_dispColorLocal": 0,
+        "id_t2_polyStereo": 0,
+        "id_t2_panCvLevel": 1.0,
+        "id_t2_stereoWidth": 1.0,
+        "id_t2_invertInput": 0,
+        "id_t3_gainAdjust": 1.0,
+        "id_t3_fadeRate": 0.0,
+        "id_t3_fadeProfile": 0.0,
+        "id_t3_directOutsMode": 3,
+        "id_t3_auxSendsMode": 3,
+        "id_t3_panLawStereo": 1,
+        "id_t3_vuColorThemeLocal": 0,
+        "id_t3_filterPos": 1,
+        "id_t3_dispColorLocal": 0,
+        "id_t3_polyStereo": 0,
+        "id_t3_panCvLevel": 1.0,
+        "id_t3_stereoWidth": 1.0,
+        "id_t3_invertInput": 0,
+        "id_t4_gainAdjust": 1.0,
+        "id_t4_fadeRate": 0.0,
+        "id_t4_fadeProfile": 0.0,
+        "id_t4_directOutsMode": 3,
+        "id_t4_auxSendsMode": 3,
+        "id_t4_panLawStereo": 1,
+        "id_t4_vuColorThemeLocal": 0,
+        "id_t4_filterPos": 1,
+        "id_t4_dispColorLocal": 0,
+        "id_t4_polyStereo": 0,
+        "id_t4_panCvLevel": 1.0,
+        "id_t4_stereoWidth": 1.0,
+        "id_t4_invertInput": 0,
+        "id_t5_gainAdjust": 1.0,
+        "id_t5_fadeRate": 0.0,
+        "id_t5_fadeProfile": 0.0,
+        "id_t5_directOutsMode": 3,
+        "id_t5_auxSendsMode": 3,
+        "id_t5_panLawStereo": 1,
+        "id_t5_vuColorThemeLocal": 0,
+        "id_t5_filterPos": 1,
+        "id_t5_dispColorLocal": 0,
+        "id_t5_polyStereo": 0,
+        "id_t5_panCvLevel": 1.0,
+        "id_t5_stereoWidth": 1.0,
+        "id_t5_invertInput": 0,
+        "id_t6_gainAdjust": 1.0,
+        "id_t6_fadeRate": 0.0,
+        "id_t6_fadeProfile": 0.0,
+        "id_t6_directOutsMode": 3,
+        "id_t6_auxSendsMode": 3,
+        "id_t6_panLawStereo": 1,
+        "id_t6_vuColorThemeLocal": 0,
+        "id_t6_filterPos": 1,
+        "id_t6_dispColorLocal": 0,
+        "id_t6_polyStereo": 0,
+        "id_t6_panCvLevel": 1.0,
+        "id_t6_stereoWidth": 1.0,
+        "id_t6_invertInput": 0,
+        "id_t7_gainAdjust": 1.0,
+        "id_t7_fadeRate": 0.0,
+        "id_t7_fadeProfile": 0.0,
+        "id_t7_directOutsMode": 3,
+        "id_t7_auxSendsMode": 3,
+        "id_t7_panLawStereo": 1,
+        "id_t7_vuColorThemeLocal": 0,
+        "id_t7_filterPos": 1,
+        "id_t7_dispColorLocal": 0,
+        "id_t7_polyStereo": 0,
+        "id_t7_panCvLevel": 1.0,
+        "id_t7_stereoWidth": 1.0,
+        "id_t7_invertInput": 0,
+        "id_g0_fadeRate": 0.0,
+        "id_g0_fadeProfile": 0.0,
+        "id_g0_directOutsMode": 3,
+        "id_g0_auxSendsMode": 3,
+        "id_g0_panLawStereo": 1,
+        "id_g0_vuColorThemeLocal": 0,
+        "id_g0_filterPos": 1,
+        "id_g0_dispColorLocal": 0,
+        "id_g0_panCvLevel": 1.0,
+        "id_g0_stereoWidth": 1.0,
+        "id_g1_fadeRate": 0.0,
+        "id_g1_fadeProfile": 0.0,
+        "id_g1_directOutsMode": 3,
+        "id_g1_auxSendsMode": 3,
+        "id_g1_panLawStereo": 1,
+        "id_g1_vuColorThemeLocal": 0,
+        "id_g1_filterPos": 1,
+        "id_g1_dispColorLocal": 0,
+        "id_g1_panCvLevel": 1.0,
+        "id_g1_stereoWidth": 1.0,
+        "dcBlock": false,
+        "clipping": 0,
+        "fadeRate": 0.0,
+        "fadeProfile": 0.0,
+        "vuColorThemeLocal": 0,
+        "dispColorLocal": 0,
+        "chainOnly": 0,
+        "dimGain": 0.251190007,
+        "masterLabel": "MASTER"
+      },
+      "pos": [
+        89,
+        1
+      ]
+    },
+    {
+      "id": 164,
+      "plugin": "trowaSoft",
+      "version": "1.0.3",
+      "model": "cvOSCcv-OutputExpander",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 152,
+      "rightModuleId": 177,
+      "data": {
+        "version": 17,
+        "type": 3,
+        "expId": "OQZ-038",
+        "displayName": "mute",
+        "numCh": 8,
+        "inputChannels": [],
+        "outputChannels": [
+          {
+            "path": "/mute/1",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/mute/2",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/mute/3",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/mute/4",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/mute/5",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/mute/6",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/mute/7",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/mute/8",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          }
+        ]
+      },
+      "pos": [
+        26,
+        0
+      ]
+    },
+    {
+      "id": 166,
+      "plugin": "MindMeldModular",
+      "version": "1.1.12",
+      "model": "Meld",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 168,
+      "rightModuleId": 155,
+      "data": {
+        "facePlate": 15,
+        "bypassState2": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "pos": [
+        83,
+        1
+      ]
+    },
+    {
+      "id": 168,
+      "plugin": "MindMeldModular",
+      "version": "1.1.12",
+      "model": "EqMaster",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 1.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 1.30103004
+        },
+        {
+          "id": 8,
+          "value": 1.477121
+        },
+        {
+          "id": 9,
+          "value": 2.69897008
+        },
+        {
+          "id": 10,
+          "value": 3.01170921
+        },
+        {
+          "id": 11,
+          "value": -20.0
+        },
+        {
+          "id": 12,
+          "value": -20.0
+        },
+        {
+          "id": 13,
+          "value": -20.0
+        },
+        {
+          "id": 14,
+          "value": -20.0
+        },
+        {
+          "id": 15,
+          "value": 0.300000012
+        },
+        {
+          "id": 16,
+          "value": 0.300000012
+        },
+        {
+          "id": 17,
+          "value": 0.300000012
+        },
+        {
+          "id": 18,
+          "value": 0.300000012
+        },
+        {
+          "id": 19,
+          "value": 1.0
+        },
+        {
+          "id": 20,
+          "value": 0.0
+        },
+        {
+          "id": 21,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 173,
+      "rightModuleId": 166,
+      "data": {
+        "mappedId": 0,
+        "trackLabels": "-01--02--03--04--05--06--07--08--09--10--11--12--13--14--15--16-GRP1GRP2GRP3GRP4AUX1AUX2AUX3AUX4",
+        "trackLabelColors": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "trackVuColors": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "miscSettings": 117507585,
+        "miscSettings2": 512,
+        "showFreqAsNotes": 0,
+        "active": [
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true,
+          true
+        ],
+        "bandActive": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "freq": [
+          1.30103004,
+          1.477121,
+          2.69897008,
+          3.01170921,
+          1.30103004,
+          1.477121,
+          2.69897008,
+          3.0,
+          1.30103004,
+          1.477121,
+          2.69897008,
+          3.0,
+          1.30103004,
+          1.477121,
+          2.69897008,
+          3.00780606,
+          1.30103004,
+          1.477121,
+          2.69897008,
+          3.0,
+          1.30103004,
+          1.477121,
+          2.69897008,
+          3.0,
+          1.30103004,
+          1.477121,
+          2.69897008,
+          3.0,
+          1.30103004,
+          1.477121,
+          2.69897008,
+          3.0,
+          2.0,
+          2.5440681,
+          3.17609119,
+          3.69897008,
+          1.30103004,
+          1.477121,
+          2.69897008,
+          3.0,
+          2.0,
+          2.5440681,
+          3.17609119,
+          3.69897008,
+          2.0,
+          2.5440681,
+          3.17609119,
+          3.69897008,
+          2.0,
+          2.5440681,
+          3.17609119,
+          3.69897008,
+          2.0,
+          2.5440681,
+          3.17609119,
+          3.69897008,
+          2.0,
+          2.5440681,
+          3.17609119,
+          3.69897008,
+          2.0,
+          2.5440681,
+          3.17609119,
+          3.69897008,
+          2.0,
+          2.5440681,
+          3.17609119,
+          3.69897008,
+          2.0,
+          2.5440681,
+          3.17609119,
+          3.69897008,
+          2.0,
+          2.5440681,
+          3.17609119,
+          3.69897008,
+          2.0,
+          2.5440681,
+          3.17609119,
+          3.69897008,
+          2.0,
+          2.5440681,
+          3.17609119,
+          3.69897008,
+          2.0,
+          2.5440681,
+          3.17609119,
+          3.69897008,
+          2.0,
+          2.5440681,
+          3.17609119,
+          3.69897008,
+          2.0,
+          2.5440681,
+          3.17609119,
+          3.69897008
+        ],
+        "gain": [
+          -20.0,
+          -20.0,
+          -20.0,
+          -20.0,
+          -19.8199997,
+          -20.0,
+          -19.8199997,
+          -19.7600002,
+          -20.0,
+          -20.0,
+          -20.0,
+          -20.0,
+          -20.0,
+          -20.0,
+          -20.0,
+          -19.3400002,
+          -20.0,
+          -20.0,
+          -20.0,
+          -20.0,
+          -20.0,
+          -20.0,
+          0.0,
+          -20.0,
+          -20.0,
+          -20.0,
+          -19.3999996,
+          -19.5200005,
+          -20.0,
+          -20.0,
+          -20.0,
+          -20.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          -20.0,
+          -20.0,
+          -20.0,
+          -20.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "q": [
+          0.300000012,
+          0.300000012,
+          0.300000012,
+          0.300000012,
+          0.300000012,
+          0.300000012,
+          0.300000012,
+          0.300000012,
+          0.300000012,
+          0.300000012,
+          0.300000012,
+          0.300000012,
+          0.300000012,
+          0.300000012,
+          0.300000012,
+          0.300000012,
+          0.300000012,
+          0.300000012,
+          0.300000012,
+          0.300000012,
+          0.300000012,
+          0.300000012,
+          0.300000012,
+          0.300000012,
+          0.300000012,
+          0.300000012,
+          0.359100014,
+          0.300000012,
+          0.300000012,
+          0.300000012,
+          0.300000012,
+          0.300000012,
+          1.0,
+          3.0,
+          3.0,
+          1.0,
+          0.300000012,
+          0.300000012,
+          0.300000012,
+          0.300000012,
+          1.0,
+          3.0,
+          3.0,
+          1.0,
+          1.0,
+          3.0,
+          3.0,
+          1.0,
+          1.0,
+          3.0,
+          3.0,
+          1.0,
+          1.0,
+          3.0,
+          3.0,
+          1.0,
+          1.0,
+          3.0,
+          3.0,
+          1.0,
+          1.0,
+          3.0,
+          3.0,
+          1.0,
+          1.0,
+          3.0,
+          3.0,
+          1.0,
+          1.0,
+          3.0,
+          3.0,
+          1.0,
+          1.0,
+          3.0,
+          3.0,
+          1.0,
+          1.0,
+          3.0,
+          3.0,
+          1.0,
+          1.0,
+          3.0,
+          3.0,
+          1.0,
+          1.0,
+          3.0,
+          3.0,
+          1.0,
+          1.0,
+          3.0,
+          3.0,
+          1.0,
+          1.0,
+          3.0,
+          3.0,
+          1.0
+        ],
+        "freqCvAtten": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "gainCvAtten": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "qCvAtten": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "lowPeak": [
+          true,
+          true,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ],
+        "highPeak": [
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false,
+          false
+        ],
+        "trackGain": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "pos": [
+        55,
+        1
+      ]
+    },
+    {
+      "id": 173,
+      "plugin": "MindMeldModular",
+      "version": "1.1.12",
+      "model": "EqExpander",
+      "params": [],
+      "leftModuleId": 182,
+      "rightModuleId": 168,
+      "data": {},
+      "pos": [
+        48,
+        1
+      ]
+    },
+    {
+      "id": 176,
+      "plugin": "Stoermelder-P1",
+      "version": "1.8.0",
+      "model": "Glue",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 7977,
+      "rightModuleId": 310,
+      "data": {
+        "panelTheme": 0,
+        "defaultSize": 16.0,
+        "defaultWidth": 80.0,
+        "defaultAngle": 0.0,
+        "defaultOpacity": 1.0,
+        "defaultColor": "#dcff46",
+        "defaultFont": 0,
+        "defaultFontColor": "#080808",
+        "skewLabels": true,
+        "labels": [
+          {
+            "moduleId": 164,
+            "x": 6.17382812,
+            "y": -0.4453125,
+            "angle": 0.0,
+            "skew": -3.09535074,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "MUTE 1-8",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 152,
+            "x": 308.095703,
+            "y": 0.43359375,
+            "angle": 0.0,
+            "skew": -1.07494545,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "FADER 1-8",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 177,
+            "x": 4.93945312,
+            "y": -0.0625,
+            "angle": 0.0,
+            "skew": -0.129199415,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "SOLO 1-8",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 179,
+            "x": 4.93554688,
+            "y": -1.3125,
+            "angle": 0.0,
+            "skew": -4.21421528,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "PAN 1-8",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 192,
+            "x": 5.0,
+            "y": 5.0,
+            "angle": 0.0,
+            "skew": 0.564517736,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "EQ-TRACK1",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 191,
+            "x": 4.5,
+            "y": 5.0,
+            "angle": 0.0,
+            "skew": 2.53047943,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "EQ-TRACK2",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 190,
+            "x": 5.0,
+            "y": 5.0,
+            "angle": 0.0,
+            "skew": -2.15392804,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "EQ-TRACK3",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 189,
+            "x": 5.5,
+            "y": 4.5,
+            "angle": 0.0,
+            "skew": 2.40730953,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "EQ-TRACK4",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 188,
+            "x": 5.5,
+            "y": 5.0,
+            "angle": 0.0,
+            "skew": 4.15939236,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "EQ-TRACK5",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 187,
+            "x": 5.5,
+            "y": 5.5,
+            "angle": 0.0,
+            "skew": 3.92060757,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "EQ-TRACK6",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 186,
+            "x": 3.5,
+            "y": 5.0,
+            "angle": 0.0,
+            "skew": 1.0120405,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "EQ-TRACK7",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 182,
+            "x": 5.5,
+            "y": 4.5,
+            "angle": 0.0,
+            "skew": 0.758353889,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "EQ-TRACK8",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 192,
+            "x": 0.0390625,
+            "y": 79.4101562,
+            "angle": 0.0,
+            "skew": 1.421965,
+            "opacity": 1.0,
+            "width": 39.5199699,
+            "size": 13.008008,
+            "text": "ON/OFF",
+            "color": "#ff7455",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 192,
+            "x": 51.1777344,
+            "y": 77.984375,
+            "angle": 0.0,
+            "skew": -7.74284267,
+            "opacity": 1.0,
+            "width": 39.5199699,
+            "size": 13.008008,
+            "text": "FREQ1",
+            "color": "#ff7455",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 192,
+            "x": -3.61132812,
+            "y": 116.328125,
+            "angle": 0.0,
+            "skew": -1.60342801,
+            "opacity": 1.0,
+            "width": 39.5199699,
+            "size": 13.008008,
+            "text": "GAIN",
+            "color": "#ff7455",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 192,
+            "x": 52.1933594,
+            "y": 117.300781,
+            "angle": 0.0,
+            "skew": 1.32838833,
+            "opacity": 1.0,
+            "width": 39.5199699,
+            "size": 13.008008,
+            "text": "Q",
+            "color": "#ff7455",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 192,
+            "x": -1.88476562,
+            "y": 145.523438,
+            "angle": 0.0,
+            "skew": -2.87549615,
+            "opacity": 1.0,
+            "width": 39.5199699,
+            "size": 13.008008,
+            "text": "ON/OFF",
+            "color": "#11a394",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 192,
+            "x": 52.5644531,
+            "y": 147.644531,
+            "angle": 0.0,
+            "skew": 6.98870468,
+            "opacity": 1.0,
+            "width": 39.5199699,
+            "size": 13.008008,
+            "text": "FREQ2",
+            "color": "#11a394",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 192,
+            "x": -2.93164062,
+            "y": 179.425781,
+            "angle": 0.0,
+            "skew": 6.69466114,
+            "opacity": 1.0,
+            "width": 39.5199699,
+            "size": 13.008008,
+            "text": "GAIN",
+            "color": "#11a394",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 192,
+            "x": 51.9980469,
+            "y": 180.71875,
+            "angle": 0.0,
+            "skew": -3.1396699,
+            "opacity": 1.0,
+            "width": 39.5199699,
+            "size": 13.008008,
+            "text": "Q",
+            "color": "#11a394",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 192,
+            "x": -3.27148438,
+            "y": 210.214844,
+            "angle": 0.0,
+            "skew": 3.49070621,
+            "opacity": 1.0,
+            "width": 39.5199699,
+            "size": 13.008008,
+            "text": "ON/OFF",
+            "color": "#4f82b5",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 192,
+            "x": 52.5917969,
+            "y": 213.75,
+            "angle": 0.0,
+            "skew": 0.189752713,
+            "opacity": 1.0,
+            "width": 39.5199699,
+            "size": 13.008008,
+            "text": "FREQ3",
+            "color": "#4f82b5",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 192,
+            "x": -3.9765625,
+            "y": 243.449219,
+            "angle": 0.0,
+            "skew": 2.46472502,
+            "opacity": 1.0,
+            "width": 39.5199699,
+            "size": 13.008008,
+            "text": "GAIN",
+            "color": "#4f82b5",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 192,
+            "x": 53.2988281,
+            "y": 244.152344,
+            "angle": 0.0,
+            "skew": -1.80614197,
+            "opacity": 1.0,
+            "width": 39.5199699,
+            "size": 13.008008,
+            "text": "Q",
+            "color": "#4f82b5",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 192,
+            "x": -3.26953125,
+            "y": 275.96875,
+            "angle": 0.0,
+            "skew": -0.256191194,
+            "opacity": 1.0,
+            "width": 39.5199699,
+            "size": 13.008008,
+            "text": "ON/OFF",
+            "color": "#876389",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 192,
+            "x": 52.5917969,
+            "y": 275.269531,
+            "angle": 0.0,
+            "skew": 5.07436752,
+            "opacity": 1.0,
+            "width": 39.5199699,
+            "size": 13.008008,
+            "text": "FREQ4",
+            "color": "#876389",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 192,
+            "x": -3.26953125,
+            "y": 309.914062,
+            "angle": 0.0,
+            "skew": -4.54642773,
+            "opacity": 1.0,
+            "width": 39.5199699,
+            "size": 13.008008,
+            "text": "GAIN",
+            "color": "#876389",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 192,
+            "x": 54.0078125,
+            "y": 308.5,
+            "angle": 0.0,
+            "skew": 0.811534524,
+            "opacity": 1.0,
+            "width": 39.5199699,
+            "size": 13.008008,
+            "text": "Q",
+            "color": "#876389",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 199,
+            "x": 4.16992188,
+            "y": -1.171875,
+            "angle": 0.0,
+            "skew": -2.36818528,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "EQ-1",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 201,
+            "x": 5.0,
+            "y": -3.0,
+            "angle": 0.0,
+            "skew": 0.375371039,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "EQ-1bis",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 202,
+            "x": -0.919921875,
+            "y": -1.390625,
+            "angle": 0.0,
+            "skew": -2.99315286,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "EQ-2",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 203,
+            "x": 2.67382812,
+            "y": -0.94140625,
+            "angle": 0.0,
+            "skew": 6.10842705,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "EQ-2bis",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 204,
+            "x": 4.48632812,
+            "y": -1.41796875,
+            "angle": 0.0,
+            "skew": 1.10654998,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "EQ-3",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 205,
+            "x": 4.44921875,
+            "y": 1.21484375,
+            "angle": 0.0,
+            "skew": 1.02549613,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "EQ-3bis",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 206,
+            "x": 5.296875,
+            "y": 1.4375,
+            "angle": 0.0,
+            "skew": -0.129000157,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "EQ-4",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 207,
+            "x": 5.67773438,
+            "y": 1.4375,
+            "angle": 0.0,
+            "skew": 9.63814735,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "EQ-4bis",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 208,
+            "x": 7.20117188,
+            "y": -1.421875,
+            "angle": 0.0,
+            "skew": -6.63744831,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "EQ-5",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 216,
+            "x": 1.90625,
+            "y": 1.44140625,
+            "angle": 0.0,
+            "skew": -5.42061186,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "AUX-A",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 217,
+            "x": 5.2578125,
+            "y": -0.9375,
+            "angle": 0.0,
+            "skew": 5.05231237,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "AUX-B",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 222,
+            "x": 4.140625,
+            "y": 3.8828125,
+            "angle": 0.0,
+            "skew": 3.84875727,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "AUX-C",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 223,
+            "x": 4.95703125,
+            "y": 1.359375,
+            "angle": 0.0,
+            "skew": -8.33547878,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "AUX-D",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 220,
+            "x": -2.59960938,
+            "y": 6.0703125,
+            "angle": 0.0,
+            "skew": 0.518086433,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "AUX-A+B",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 221,
+            "x": 5.36523438,
+            "y": 6.4921875,
+            "angle": 0.0,
+            "skew": -1.14975846,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "AUX-B+C",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 224,
+            "x": 10.3867188,
+            "y": 5.6484375,
+            "angle": 0.0,
+            "skew": -5.13113642,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "MUTE-1-8",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 226,
+            "x": 5.50585938,
+            "y": 0.40234375,
+            "angle": 0.0,
+            "skew": -1.42941928,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "AUX-MUTE1-8",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 7966,
+            "x": 6.04296875,
+            "y": 0.84375,
+            "angle": 0.0,
+            "skew": 0.347801119,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "EQ-5bis",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 7970,
+            "x": -0.119140625,
+            "y": 0.25,
+            "angle": 0.0,
+            "skew": -2.68857765,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "EQ-6",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 7971,
+            "x": -3.30664062,
+            "y": -0.9375,
+            "angle": 0.0,
+            "skew": -3.49300838,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "EQ-6bis",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 7972,
+            "x": -1.14257812,
+            "y": 2.03515625,
+            "angle": 0.0,
+            "skew": 3.3030684,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "EQ-7",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 7973,
+            "x": 0.42578125,
+            "y": 5.0078125,
+            "angle": 0.0,
+            "skew": 1.06487918,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "EQ-7bis",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 7974,
+            "x": 4.96679688,
+            "y": 0.84375,
+            "angle": 0.0,
+            "skew": 1.72430468,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "EQ-8",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 7975,
+            "x": 0.58984375,
+            "y": 0.25,
+            "angle": 0.0,
+            "skew": -3.13584352,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "EQ-8bis",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          },
+          {
+            "moduleId": 7977,
+            "x": 4.79492188,
+            "y": -1.0078125,
+            "angle": 0.0,
+            "skew": -4.67686129,
+            "opacity": 1.0,
+            "width": 80.0,
+            "size": 16.0,
+            "text": "XY DIY",
+            "color": "#dcff46",
+            "font": 0,
+            "fontColor": "#080808"
+          }
+        ]
+      },
+      "pos": [
+        176,
+        0
+      ]
+    },
+    {
+      "id": 177,
+      "plugin": "trowaSoft",
+      "version": "1.0.3",
+      "model": "cvOSCcv-OutputExpander",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 164,
+      "rightModuleId": 179,
+      "data": {
+        "version": 17,
+        "type": 3,
+        "expId": "OQZ-038",
+        "displayName": "solo",
+        "numCh": 8,
+        "inputChannels": [],
+        "outputChannels": [
+          {
+            "path": "/solo/1",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/solo/2",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/solo/3",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/solo/4",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/solo/5",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/solo/6",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/solo/7",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/solo/8",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          }
+        ]
+      },
+      "pos": [
+        32,
+        0
+      ]
+    },
+    {
+      "id": 179,
+      "plugin": "trowaSoft",
+      "version": "1.0.3",
+      "model": "cvOSCcv-OutputExpander",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 177,
+      "rightModuleId": 199,
+      "data": {
+        "version": 17,
+        "type": 3,
+        "expId": "OQZ-038",
+        "displayName": "pan",
+        "numCh": 8,
+        "inputChannels": [],
+        "outputChannels": [
+          {
+            "path": "/pan/1",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/pan/2",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/pan/3",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/pan/4",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/pan/5",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/pan/6",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/pan/7",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/pan/8",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          }
+        ]
+      },
+      "pos": [
+        38,
+        0
+      ]
+    },
+    {
+      "id": 182,
+      "plugin": "MindMeldModular",
+      "version": "1.1.12",
+      "model": "Meld",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 186,
+      "rightModuleId": 173,
+      "data": {
+        "facePlate": 0,
+        "bypassState2": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "pos": [
+        42,
+        1
+      ]
+    },
+    {
+      "id": 186,
+      "plugin": "MindMeldModular",
+      "version": "1.1.12",
+      "model": "Meld",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 187,
+      "rightModuleId": 182,
+      "data": {
+        "facePlate": 0,
+        "bypassState2": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "pos": [
+        36,
+        1
+      ]
+    },
+    {
+      "id": 187,
+      "plugin": "MindMeldModular",
+      "version": "1.1.12",
+      "model": "Meld",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 188,
+      "rightModuleId": 186,
+      "data": {
+        "facePlate": 0,
+        "bypassState2": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "pos": [
+        30,
+        1
+      ]
+    },
+    {
+      "id": 188,
+      "plugin": "MindMeldModular",
+      "version": "1.1.12",
+      "model": "Meld",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 189,
+      "rightModuleId": 187,
+      "data": {
+        "facePlate": 0,
+        "bypassState2": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "pos": [
+        24,
+        1
+      ]
+    },
+    {
+      "id": 189,
+      "plugin": "MindMeldModular",
+      "version": "1.1.12",
+      "model": "Meld",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 190,
+      "rightModuleId": 188,
+      "data": {
+        "facePlate": 0,
+        "bypassState2": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "pos": [
+        18,
+        1
+      ]
+    },
+    {
+      "id": 190,
+      "plugin": "MindMeldModular",
+      "version": "1.1.12",
+      "model": "Meld",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 191,
+      "rightModuleId": 189,
+      "data": {
+        "facePlate": 0,
+        "bypassState2": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "pos": [
+        12,
+        1
+      ]
+    },
+    {
+      "id": 191,
+      "plugin": "MindMeldModular",
+      "version": "1.1.12",
+      "model": "Meld",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 192,
+      "rightModuleId": 190,
+      "data": {
+        "facePlate": 0,
+        "bypassState2": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "pos": [
+        6,
+        1
+      ]
+    },
+    {
+      "id": 192,
+      "plugin": "MindMeldModular",
+      "version": "1.1.12",
+      "model": "Meld",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        }
+      ],
+      "rightModuleId": 191,
+      "data": {
+        "facePlate": 0,
+        "bypassState2": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "pos": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": 199,
+      "plugin": "trowaSoft",
+      "version": "1.0.3",
+      "model": "cvOSCcv-OutputExpander",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 179,
+      "rightModuleId": 201,
+      "data": {
+        "version": 17,
+        "type": 3,
+        "expId": "OQZ-038",
+        "displayName": "EQ-1",
+        "numCh": 8,
+        "inputChannels": [],
+        "outputChannels": [
+          {
+            "path": "/eq/t1/1/onoff",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/eq/t1/1/freq",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 20.0,
+            "maxOSC": 500.0
+          },
+          {
+            "path": "/eq/t1/1/gain",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": -20.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t1/1/q",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 0.300000012,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t1/2/onoff",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/eq/t1/2/freq",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 30.0,
+            "maxOSC": 2000.0
+          },
+          {
+            "path": "/eq/t1/2/gain",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": -20.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t1/2/q",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 0.300000012,
+            "maxOSC": 20.0
+          }
+        ]
+      },
+      "pos": [
+        44,
+        0
+      ]
+    },
+    {
+      "id": 200,
+      "plugin": "MindMeldModular",
+      "version": "1.1.12",
+      "model": "AuxExpanderJr",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 0.0
+        },
+        {
+          "id": 9,
+          "value": 0.0
+        },
+        {
+          "id": 10,
+          "value": 0.0
+        },
+        {
+          "id": 11,
+          "value": 0.0
+        },
+        {
+          "id": 12,
+          "value": 0.0
+        },
+        {
+          "id": 13,
+          "value": 0.0
+        },
+        {
+          "id": 14,
+          "value": 0.0
+        },
+        {
+          "id": 15,
+          "value": 0.0
+        },
+        {
+          "id": 16,
+          "value": 0.0
+        },
+        {
+          "id": 17,
+          "value": 0.0
+        },
+        {
+          "id": 18,
+          "value": 0.0
+        },
+        {
+          "id": 19,
+          "value": 0.0
+        },
+        {
+          "id": 20,
+          "value": 0.0
+        },
+        {
+          "id": 21,
+          "value": 0.0
+        },
+        {
+          "id": 22,
+          "value": 0.0
+        },
+        {
+          "id": 23,
+          "value": 0.0
+        },
+        {
+          "id": 24,
+          "value": 0.0
+        },
+        {
+          "id": 25,
+          "value": 0.0
+        },
+        {
+          "id": 26,
+          "value": 0.0
+        },
+        {
+          "id": 27,
+          "value": 0.0
+        },
+        {
+          "id": 28,
+          "value": 0.0
+        },
+        {
+          "id": 29,
+          "value": 0.0
+        },
+        {
+          "id": 30,
+          "value": 0.0
+        },
+        {
+          "id": 31,
+          "value": 0.0
+        },
+        {
+          "id": 32,
+          "value": 0.0
+        },
+        {
+          "id": 33,
+          "value": 0.0
+        },
+        {
+          "id": 34,
+          "value": 0.0
+        },
+        {
+          "id": 35,
+          "value": 0.0
+        },
+        {
+          "id": 36,
+          "value": 0.0
+        },
+        {
+          "id": 37,
+          "value": 0.0
+        },
+        {
+          "id": 38,
+          "value": 0.0
+        },
+        {
+          "id": 39,
+          "value": 0.0
+        },
+        {
+          "id": 40,
+          "value": 0.0
+        },
+        {
+          "id": 41,
+          "value": 0.0
+        },
+        {
+          "id": 42,
+          "value": 0.0
+        },
+        {
+          "id": 43,
+          "value": 0.0
+        },
+        {
+          "id": 44,
+          "value": 0.0
+        },
+        {
+          "id": 45,
+          "value": 0.0
+        },
+        {
+          "id": 46,
+          "value": 0.0
+        },
+        {
+          "id": 47,
+          "value": 0.0
+        },
+        {
+          "id": 48,
+          "value": 0.0
+        },
+        {
+          "id": 49,
+          "value": 0.0
+        },
+        {
+          "id": 50,
+          "value": 0.0
+        },
+        {
+          "id": 51,
+          "value": 0.0
+        },
+        {
+          "id": 52,
+          "value": 0.0
+        },
+        {
+          "id": 53,
+          "value": 0.0
+        },
+        {
+          "id": 54,
+          "value": 0.0
+        },
+        {
+          "id": 55,
+          "value": 0.0
+        },
+        {
+          "id": 56,
+          "value": 0.0
+        },
+        {
+          "id": 57,
+          "value": 0.0
+        },
+        {
+          "id": 58,
+          "value": 0.0
+        },
+        {
+          "id": 59,
+          "value": 0.0
+        },
+        {
+          "id": 60,
+          "value": 0.0
+        },
+        {
+          "id": 61,
+          "value": 0.0
+        },
+        {
+          "id": 62,
+          "value": 1.0
+        },
+        {
+          "id": 63,
+          "value": 1.0
+        },
+        {
+          "id": 64,
+          "value": 1.0
+        },
+        {
+          "id": 65,
+          "value": 1.0
+        },
+        {
+          "id": 66,
+          "value": 0.5
+        },
+        {
+          "id": 67,
+          "value": 0.5
+        },
+        {
+          "id": 68,
+          "value": 0.5
+        },
+        {
+          "id": 69,
+          "value": 0.5
+        },
+        {
+          "id": 70,
+          "value": 1.0
+        },
+        {
+          "id": 71,
+          "value": 1.0
+        },
+        {
+          "id": 72,
+          "value": 1.0
+        },
+        {
+          "id": 73,
+          "value": 1.0
+        }
+      ],
+      "leftModuleId": 155,
+      "rightModuleId": 220,
+      "data": {
+        "directOutsModeLocal": 50529027,
+        "panLawStereoLocal": 16843009,
+        "vuColorThemeLocal": 0,
+        "dispColorAuxLocal": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "auxFadeRatesAndProfiles": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "auxLabels": "AUXAAUXBAUXCAUXD",
+        "id_x0_hpfCutoffFreq": 13.0,
+        "id_x0_lpfCutoffFreq": 20010.0,
+        "id_x0_stereoWidth": 1.0,
+        "id_x1_hpfCutoffFreq": 13.0,
+        "id_x1_lpfCutoffFreq": 20010.0,
+        "id_x1_stereoWidth": 1.0,
+        "id_x2_hpfCutoffFreq": 13.0,
+        "id_x2_lpfCutoffFreq": 20010.0,
+        "id_x2_stereoWidth": 1.0,
+        "id_x3_hpfCutoffFreq": 13.0,
+        "id_x3_lpfCutoffFreq": 20010.0,
+        "id_x3_stereoWidth": 1.0,
+        "panCvLevels": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "pos": [
+        125,
+        1
+      ]
+    },
+    {
+      "id": 201,
+      "plugin": "trowaSoft",
+      "version": "1.0.3",
+      "model": "cvOSCcv-OutputExpander",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 199,
+      "rightModuleId": 202,
+      "data": {
+        "version": 17,
+        "type": 3,
+        "expId": "OQZ-038",
+        "displayName": "EQ-1bis",
+        "numCh": 8,
+        "inputChannels": [],
+        "outputChannels": [
+          {
+            "path": "/eq/t1/3/onoff",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/eq/t1/3/freq",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 500.0,
+            "maxOSC": 5000.0
+          },
+          {
+            "path": "/eq/t1/3/gain",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": -20.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t1/3/q",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/eq/t1/4/onoff",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/eq/t1/4/freq",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 1000.0,
+            "maxOSC": 20000.0
+          },
+          {
+            "path": "/eq/t1/4/gain",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": -20.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t1/4/q",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 0.0,
+            "maxOSC": 20.0
+          }
+        ]
+      },
+      "pos": [
+        50,
+        0
+      ]
+    },
+    {
+      "id": 202,
+      "plugin": "trowaSoft",
+      "version": "1.0.3",
+      "model": "cvOSCcv-OutputExpander",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 201,
+      "rightModuleId": 203,
+      "data": {
+        "version": 17,
+        "type": 3,
+        "expId": "OQZ-038",
+        "displayName": "EQ-2",
+        "numCh": 8,
+        "inputChannels": [],
+        "outputChannels": [
+          {
+            "path": "/eq/t2/1/onoff",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 20.0,
+            "maxOSC": 500.0
+          },
+          {
+            "path": "/eq/t2/1/freq",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 20.0,
+            "maxOSC": 500.0
+          },
+          {
+            "path": "/eq/t2/1/gain",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": -20.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t2/1/q",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 0.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t2/2/onoff",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/eq/t2/2/freq",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 30.0,
+            "maxOSC": 2000.0
+          },
+          {
+            "path": "/eq/t2/2/gain",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": -20.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t2/2/q",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 0.0,
+            "maxOSC": 20.0
+          }
+        ]
+      },
+      "pos": [
+        56,
+        0
+      ]
+    },
+    {
+      "id": 203,
+      "plugin": "trowaSoft",
+      "version": "1.0.3",
+      "model": "cvOSCcv-OutputExpander",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 202,
+      "rightModuleId": 204,
+      "data": {
+        "version": 17,
+        "type": 3,
+        "expId": "OQZ-038",
+        "displayName": "EQ2-BIS",
+        "numCh": 8,
+        "inputChannels": [],
+        "outputChannels": [
+          {
+            "path": "/eq/t2/3/onoff",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/eq/t2/3/freq\n/eq/2/hmf/gain",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 30.0,
+            "maxOSC": 2000.0
+          },
+          {
+            "path": "/eq/t2/3/gain\n/eq/2/hmf/q",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/eq/t2/3/gain\n/eq/2/hmf/q",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/eq/t2/4/onoff",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/eq/t2/4/freq",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 1000.0,
+            "maxOSC": 20000.0
+          },
+          {
+            "path": "/eq/t2/4/gain",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": -20.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t2/4/q",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 0.0,
+            "maxOSC": 20.0
+          }
+        ]
+      },
+      "pos": [
+        62,
+        0
+      ]
+    },
+    {
+      "id": 204,
+      "plugin": "trowaSoft",
+      "version": "1.0.3",
+      "model": "cvOSCcv-OutputExpander",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 203,
+      "rightModuleId": 205,
+      "data": {
+        "version": 17,
+        "type": 3,
+        "expId": "OQZ-038",
+        "displayName": "EQ-3",
+        "numCh": 8,
+        "inputChannels": [],
+        "outputChannels": [
+          {
+            "path": "/eq/t3/1/onoff",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/eq/t3/1/freq",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 20.0,
+            "maxOSC": 500.0
+          },
+          {
+            "path": "/eq/t3/1/gain",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": -20.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t3/1/q",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 0.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t3/2/onoff",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/eq/t3/2/freq",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 30.0,
+            "maxOSC": 2000.0
+          },
+          {
+            "path": "/eq/t3/2/gain",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": -20.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t3/2/q",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 0.0,
+            "maxOSC": 20.0
+          }
+        ]
+      },
+      "pos": [
+        68,
+        0
+      ]
+    },
+    {
+      "id": 205,
+      "plugin": "trowaSoft",
+      "version": "1.0.3",
+      "model": "cvOSCcv-OutputExpander",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 204,
+      "rightModuleId": 206,
+      "data": {
+        "version": 17,
+        "type": 3,
+        "expId": "OQZ-038",
+        "displayName": "EQ-3bis",
+        "numCh": 8,
+        "inputChannels": [],
+        "outputChannels": [
+          {
+            "path": "/eq/t3/3/onoff",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/eq/t3/3/freq",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 500.0,
+            "maxOSC": 5000.0
+          },
+          {
+            "path": "/eq/t3/3/gain",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": -20.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t3/3/q",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 0.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t3/4/onoff",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/eq/t3/4/freq",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 1000.0,
+            "maxOSC": 20000.0
+          },
+          {
+            "path": "/eq/t3/4/gain",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": -20.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t3/4/q",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 0.0,
+            "maxOSC": 20.0
+          }
+        ]
+      },
+      "pos": [
+        74,
+        0
+      ]
+    },
+    {
+      "id": 206,
+      "plugin": "trowaSoft",
+      "version": "1.0.3",
+      "model": "cvOSCcv-OutputExpander",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 205,
+      "rightModuleId": 207,
+      "data": {
+        "version": 17,
+        "type": 3,
+        "expId": "OQZ-038",
+        "displayName": "EQ-4",
+        "numCh": 8,
+        "inputChannels": [],
+        "outputChannels": [
+          {
+            "path": "/eq/t4/1/onoff",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/eq/t4/1/freq",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 20.0,
+            "maxOSC": 500.0
+          },
+          {
+            "path": "/eq/t4/1/gain",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": -20.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t4/1/q",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 0.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t4/2/onoff",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/eq/t4/2/freq",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 30.0,
+            "maxOSC": 2000.0
+          },
+          {
+            "path": "/eq/t4/2/gain",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": -20.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t4/2/q",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 0.0,
+            "maxOSC": 20.0
+          }
+        ]
+      },
+      "pos": [
+        80,
+        0
+      ]
+    },
+    {
+      "id": 207,
+      "plugin": "trowaSoft",
+      "version": "1.0.3",
+      "model": "cvOSCcv-OutputExpander",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 206,
+      "rightModuleId": 208,
+      "data": {
+        "version": 17,
+        "type": 3,
+        "expId": "OQZ-038",
+        "displayName": "EQ4bis",
+        "numCh": 8,
+        "inputChannels": [],
+        "outputChannels": [
+          {
+            "path": "/eq/t4/3/onoff",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/eq/t4/3/freq",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 500.0,
+            "maxOSC": 5000.0
+          },
+          {
+            "path": "/eq/t4/3/gain",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": -20.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t4/3/q",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 0.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t4/4/onoff",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/eq/t4/4/freq",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 1000.0,
+            "maxOSC": 20000.0
+          },
+          {
+            "path": "/eq/t4/4/gain",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": -20.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t4/4/q",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 0.0,
+            "maxOSC": 20.0
+          }
+        ]
+      },
+      "pos": [
+        86,
+        0
+      ]
+    },
+    {
+      "id": 208,
+      "plugin": "trowaSoft",
+      "version": "1.0.3",
+      "model": "cvOSCcv-OutputExpander",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 207,
+      "rightModuleId": 7966,
+      "data": {
+        "version": 17,
+        "type": 3,
+        "expId": "OQZ-038",
+        "displayName": "EQ-5",
+        "numCh": 8,
+        "inputChannels": [],
+        "outputChannels": [
+          {
+            "path": "/eq/t5/1/onoff",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/eq/t5/1/freq",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 20.0,
+            "maxOSC": 500.0
+          },
+          {
+            "path": "/eq/t5/1/gain",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": -20.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t5/1/q",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 0.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t5/2/onoff",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/eq/t5/2/freq",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 30.0,
+            "maxOSC": 2000.0
+          },
+          {
+            "path": "/eq/t5/2/gain",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": -20.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t5/2/q",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 0.0,
+            "maxOSC": 20.0
+          }
+        ]
+      },
+      "pos": [
+        92,
+        0
+      ]
+    },
+    {
+      "id": 216,
+      "plugin": "trowaSoft",
+      "version": "1.0.3",
+      "model": "cvOSCcv-OutputExpander",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 7975,
+      "rightModuleId": 217,
+      "data": {
+        "version": 17,
+        "type": 3,
+        "expId": "OQZ-038",
+        "displayName": "AUX-A",
+        "numCh": 8,
+        "inputChannels": [],
+        "outputChannels": [
+          {
+            "path": "/auxa/knob/1",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/auxa/knob/2",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/auxa/knob/3",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/auxa/knob/4",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/auxa/knob/5",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/auxa/knob/6",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/auxa/knob/7",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/auxa/knob/8",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          }
+        ]
+      },
+      "pos": [
+        140,
+        0
+      ]
+    },
+    {
+      "id": 217,
+      "plugin": "trowaSoft",
+      "version": "1.0.3",
+      "model": "cvOSCcv-OutputExpander",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 216,
+      "rightModuleId": 222,
+      "data": {
+        "version": 17,
+        "type": 3,
+        "expId": "OQZ-038",
+        "displayName": "AUX-B",
+        "numCh": 8,
+        "inputChannels": [],
+        "outputChannels": [
+          {
+            "path": "/auxb/knob/1",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/auxb/knob/2",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/auxb/knob/3",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/auxb/knob/4",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/auxb/knob/5",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/auxb/knob/6",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/auxb/knob/7",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/auxb/knob/8",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          }
+        ]
+      },
+      "pos": [
+        146,
+        0
+      ]
+    },
+    {
+      "id": 220,
+      "plugin": "MindMeldModular",
+      "version": "1.1.12",
+      "model": "Meld",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 200,
+      "rightModuleId": 221,
+      "data": {
+        "facePlate": 17,
+        "bypassState2": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "pos": [
+        155,
+        1
+      ]
+    },
+    {
+      "id": 221,
+      "plugin": "MindMeldModular",
+      "version": "1.1.12",
+      "model": "Meld",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 220,
+      "rightModuleId": 224,
+      "data": {
+        "facePlate": 18,
+        "bypassState2": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "pos": [
+        161,
+        1
+      ]
+    },
+    {
+      "id": 222,
+      "plugin": "trowaSoft",
+      "version": "1.0.3",
+      "model": "cvOSCcv-OutputExpander",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 217,
+      "rightModuleId": 223,
+      "data": {
+        "version": 17,
+        "type": 3,
+        "expId": "OQZ-038",
+        "displayName": "AUX-C",
+        "numCh": 8,
+        "inputChannels": [],
+        "outputChannels": [
+          {
+            "path": "/auxc/knob/1",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/auxc/knob/2",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/auxc/knob/3",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/auxc/knob/4",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/auxc/knob/5",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/auxc/knob/6",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/auxc/knob/7",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/auxc/knob/8",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          }
+        ]
+      },
+      "pos": [
+        152,
+        0
+      ]
+    },
+    {
+      "id": 223,
+      "plugin": "trowaSoft",
+      "version": "1.0.3",
+      "model": "cvOSCcv-OutputExpander",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 222,
+      "rightModuleId": 226,
+      "data": {
+        "version": 17,
+        "type": 3,
+        "expId": "OQZ-038",
+        "displayName": "AUX-D",
+        "numCh": 8,
+        "inputChannels": [],
+        "outputChannels": [
+          {
+            "path": "/auxd/knob/1",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/auxd/knob/2",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/auxd/knob/3",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/auxd/knob/4",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/auxd/knob/5",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/auxd/knob/6",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/auxd/knob/7",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/auxd/knob/8",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          }
+        ]
+      },
+      "pos": [
+        158,
+        0
+      ]
+    },
+    {
+      "id": 224,
+      "plugin": "MindMeldModular",
+      "version": "1.1.12",
+      "model": "Meld",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 221,
+      "rightModuleId": 227,
+      "data": {
+        "facePlate": 15,
+        "bypassState2": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "pos": [
+        167,
+        1
+      ]
+    },
+    {
+      "id": 226,
+      "plugin": "trowaSoft",
+      "version": "1.0.3",
+      "model": "cvOSCcv-OutputExpander",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 223,
+      "rightModuleId": 7977,
+      "data": {
+        "version": 17,
+        "type": 3,
+        "expId": "OQZ-038",
+        "displayName": "AUX-MUTE",
+        "numCh": 8,
+        "inputChannels": [],
+        "outputChannels": [
+          {
+            "path": "/aux/mute/1",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/aux/mute/2",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/aux/mute/3",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/aux/mute/4",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/aux/mute/5",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/aux/mute/6",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/aux/mute/7",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/aux/mute/8",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          }
+        ]
+      },
+      "pos": [
+        164,
+        0
+      ]
+    },
+    {
+      "id": 227,
+      "plugin": "MindMeldModular",
+      "version": "1.1.12",
+      "model": "BassMaster",
+      "params": [
+        {
+          "id": 0,
+          "value": 239.475006
+        },
+        {
+          "id": 1,
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 1.0
+        },
+        {
+          "id": 3,
+          "value": 1.0
+        },
+        {
+          "id": 4,
+          "value": 0.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 0.0
+        },
+        {
+          "id": 9,
+          "value": 0.0
+        },
+        {
+          "id": 10,
+          "value": 1.0
+        }
+      ],
+      "leftModuleId": 224,
+      "data": {
+        "miscSettings": 0
+      },
+      "pos": [
+        173,
+        1
+      ]
+    },
+    {
+      "id": 310,
+      "plugin": "Core",
+      "version": "1.1.6",
+      "model": "Notes",
+      "params": [],
+      "leftModuleId": 176,
+      "text": "OPEN STAGE CONTROL \nis opensource OSC/MIDI controller\n----------------------------------\nto download it :\nhttps://openstagecontrol.ammd.net\n\n\nTo controll VCVRACK from web browser (PC, MAC, LINUX, IPHONE,ANDROID, TABLET, IOT...)\n\n\nPATCH CREATED ON MY TWITCH CHANNEL : electrautistic\n\n \n",
+      "pos": [
+        179,
+        0
+      ]
+    },
+    {
+      "id": 7966,
+      "plugin": "trowaSoft",
+      "version": "1.0.3",
+      "model": "cvOSCcv-OutputExpander",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 208,
+      "rightModuleId": 7970,
+      "data": {
+        "version": 17,
+        "type": 3,
+        "expId": "OQZ-038",
+        "displayName": "EQ-5bis",
+        "numCh": 8,
+        "inputChannels": [],
+        "outputChannels": [
+          {
+            "path": "/eq/t5/3/onoff",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/eq/t5/3/freq",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 500.0,
+            "maxOSC": 5000.0
+          },
+          {
+            "path": "/eq/t5/3/gain",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": -20.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t5/3/q",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 0.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t5/4/onoff",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/eq/t5/4/freq",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 1000.0,
+            "maxOSC": 20000.0
+          },
+          {
+            "path": "/eq/t5/4/gain",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": -20.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t5/4/q",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 0.0,
+            "maxOSC": 20.0
+          }
+        ]
+      },
+      "pos": [
+        98,
+        0
+      ]
+    },
+    {
+      "id": 7967,
+      "plugin": "CountModula",
+      "version": "1.14.0",
+      "model": "Palette",
+      "params": [
+        {
+          "id": 0,
+          "value": 1.0
+        }
+      ],
+      "data": {
+        "moduleVersion": 1,
+        "color": 1,
+        "theme": 0
+      },
+      "pos": [
+        191,
+        1
+      ]
+    },
+    {
+      "id": 7970,
+      "plugin": "trowaSoft",
+      "version": "1.0.3",
+      "model": "cvOSCcv-OutputExpander",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 7966,
+      "rightModuleId": 7971,
+      "data": {
+        "version": 17,
+        "type": 3,
+        "expId": "OQZ-038",
+        "displayName": "EQ-6",
+        "numCh": 8,
+        "inputChannels": [],
+        "outputChannels": [
+          {
+            "path": "/eq/t6/1/onoff",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/eq/t6/1/freq",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 20.0,
+            "maxOSC": 500.0
+          },
+          {
+            "path": "/eq/t6/1/gain",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": -20.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t6/1/q",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 0.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t6/2/onoff",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/eq/t6/2/freq",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 30.0,
+            "maxOSC": 2000.0
+          },
+          {
+            "path": "/eq/t6/2/gain",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": -20.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t6/2/q",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 0.0,
+            "maxOSC": 20.0
+          }
+        ]
+      },
+      "pos": [
+        104,
+        0
+      ]
+    },
+    {
+      "id": 7971,
+      "plugin": "trowaSoft",
+      "version": "1.0.3",
+      "model": "cvOSCcv-OutputExpander",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 7970,
+      "rightModuleId": 7972,
+      "data": {
+        "version": 17,
+        "type": 3,
+        "expId": "OQZ-038",
+        "displayName": "EQ-6bis",
+        "numCh": 8,
+        "inputChannels": [],
+        "outputChannels": [
+          {
+            "path": "/eq/t5/3/onoff",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/eq/t5/3/freq",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 500.0,
+            "maxOSC": 5000.0
+          },
+          {
+            "path": "/eq/t5/3/gain",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": -20.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t5/3/q",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 0.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t5/4/onoff",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/eq/t5/4/freq",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 1000.0,
+            "maxOSC": 20000.0
+          },
+          {
+            "path": "/eq/t5/4/gain",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": -20.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t5/4/q",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 0.0,
+            "maxOSC": 20.0
+          }
+        ]
+      },
+      "pos": [
+        110,
+        0
+      ]
+    },
+    {
+      "id": 7972,
+      "plugin": "trowaSoft",
+      "version": "1.0.3",
+      "model": "cvOSCcv-OutputExpander",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 7971,
+      "rightModuleId": 7973,
+      "data": {
+        "version": 17,
+        "type": 3,
+        "expId": "OQZ-038",
+        "displayName": "EQ-7",
+        "numCh": 8,
+        "inputChannels": [],
+        "outputChannels": [
+          {
+            "path": "/eq/t7/1/onoff",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/eq/t7/1/freq",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 20.0,
+            "maxOSC": 500.0
+          },
+          {
+            "path": "/eq/t7/1/gain",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": -20.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t7/1/q",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 0.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t7/2/onoff",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/eq/t7/2/freq",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 30.0,
+            "maxOSC": 2000.0
+          },
+          {
+            "path": "/eq/t7/2/gain",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": -20.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t7/2/q",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 0.0,
+            "maxOSC": 20.0
+          }
+        ]
+      },
+      "pos": [
+        116,
+        0
+      ]
+    },
+    {
+      "id": 7973,
+      "plugin": "trowaSoft",
+      "version": "1.0.3",
+      "model": "cvOSCcv-OutputExpander",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 7972,
+      "rightModuleId": 7974,
+      "data": {
+        "version": 17,
+        "type": 3,
+        "expId": "OQZ-038",
+        "displayName": "EQ-7bis",
+        "numCh": 8,
+        "inputChannels": [],
+        "outputChannels": [
+          {
+            "path": "/eq/t7/3/onoff",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/eq/t7/3/freq",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 500.0,
+            "maxOSC": 5000.0
+          },
+          {
+            "path": "/eq/t7/3/gain",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": -20.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t7/3/q",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 0.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t7/4/onoff",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/eq/t7/4/freq",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 1000.0,
+            "maxOSC": 20000.0
+          },
+          {
+            "path": "/eq/t7/4/gain",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": -20.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t7/4/q",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 0.0,
+            "maxOSC": 20.0
+          }
+        ]
+      },
+      "pos": [
+        122,
+        0
+      ]
+    },
+    {
+      "id": 7974,
+      "plugin": "trowaSoft",
+      "version": "1.0.3",
+      "model": "cvOSCcv-OutputExpander",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 7973,
+      "rightModuleId": 7975,
+      "data": {
+        "version": 17,
+        "type": 3,
+        "expId": "OQZ-038",
+        "displayName": "EQ-8",
+        "numCh": 8,
+        "inputChannels": [],
+        "outputChannels": [
+          {
+            "path": "/eq/t8/1/onoff",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/eq/t8/1/freq",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 20.0,
+            "maxOSC": 500.0
+          },
+          {
+            "path": "/eq/t8/1/gain",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": -20.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t8/1/q",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 0.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t8/2/onoff",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/eq/t8/2/freq",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 30.0,
+            "maxOSC": 2000.0
+          },
+          {
+            "path": "/eq/t8/2/gain",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": -20.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t8/2/q",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 0.0,
+            "maxOSC": 20.0
+          }
+        ]
+      },
+      "pos": [
+        128,
+        0
+      ]
+    },
+    {
+      "id": 7975,
+      "plugin": "trowaSoft",
+      "version": "1.0.3",
+      "model": "cvOSCcv-OutputExpander",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 7974,
+      "rightModuleId": 216,
+      "data": {
+        "version": 17,
+        "type": 3,
+        "expId": "OQZ-038",
+        "displayName": "EQ-8bis",
+        "numCh": 8,
+        "inputChannels": [],
+        "outputChannels": [
+          {
+            "path": "/eq/t8/3/onoff",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/eq/t8/3/freq",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 500.0,
+            "maxOSC": 5000.0
+          },
+          {
+            "path": "/eq/t8/3/gain",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": -20.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t8/3/q",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 0.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t8/4/onoff",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/eq/t8/4/freq",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 1000.0,
+            "maxOSC": 20000.0
+          },
+          {
+            "path": "/eq/t8/4/gain",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": -20.0,
+            "maxOSC": 20.0
+          },
+          {
+            "path": "/eq/t8/4/q",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 0.0,
+            "maxOSC": 20.0
+          }
+        ]
+      },
+      "pos": [
+        134,
+        0
+      ]
+    },
+    {
+      "id": 7977,
+      "plugin": "trowaSoft",
+      "version": "1.0.3",
+      "model": "cvOSCcv-OutputExpander",
+      "params": [
+        {
+          "id": 0,
+          "value": 0.0
+        }
+      ],
+      "leftModuleId": 226,
+      "rightModuleId": 176,
+      "data": {
+        "version": 17,
+        "type": 3,
+        "expId": "OQZ-038",
+        "displayName": "xy",
+        "numCh": 8,
+        "inputChannels": [],
+        "outputChannels": [
+          {
+            "path": "/xy",
+            "dataType": 1,
+            "convertVals": 1,
+            "clipVals": 0,
+            "minV": 0.0,
+            "maxV": 10.0,
+            "minOSC": 0.0,
+            "maxOSC": 10.0
+          },
+          {
+            "path": "/aux/mute/2",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/aux/mute/3",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/aux/mute/4",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/aux/mute/5",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/aux/mute/6",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/aux/mute/7",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          },
+          {
+            "path": "/aux/mute/8",
+            "dataType": 1,
+            "convertVals": 0,
+            "clipVals": 0,
+            "minV": -5.0,
+            "maxV": 5.58333015,
+            "minOSC": 0.0,
+            "maxOSC": 127.0
+          }
+        ]
+      },
+      "pos": [
+        170,
+        0
+      ]
+    }
+  ],
+  "cables": [
+    {
+      "id": 15306,
+      "outputModuleId": 164,
+      "outputId": 0,
+      "inputModuleId": 166,
+      "inputId": 1,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15307,
+      "outputModuleId": 164,
+      "outputId": 2,
+      "inputModuleId": 166,
+      "inputId": 2,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15308,
+      "outputModuleId": 164,
+      "outputId": 4,
+      "inputModuleId": 166,
+      "inputId": 3,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15309,
+      "outputModuleId": 164,
+      "outputId": 6,
+      "inputModuleId": 166,
+      "inputId": 4,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15310,
+      "outputModuleId": 164,
+      "outputId": 8,
+      "inputModuleId": 166,
+      "inputId": 5,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15311,
+      "outputModuleId": 164,
+      "outputId": 10,
+      "inputModuleId": 166,
+      "inputId": 6,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15312,
+      "outputModuleId": 164,
+      "outputId": 12,
+      "inputModuleId": 166,
+      "inputId": 7,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15313,
+      "outputModuleId": 164,
+      "outputId": 14,
+      "inputModuleId": 166,
+      "inputId": 8,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15315,
+      "outputModuleId": 152,
+      "outputId": 3,
+      "inputModuleId": 155,
+      "inputId": 17,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15316,
+      "outputModuleId": 152,
+      "outputId": 5,
+      "inputModuleId": 155,
+      "inputId": 18,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15317,
+      "outputModuleId": 152,
+      "outputId": 7,
+      "inputModuleId": 155,
+      "inputId": 19,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15318,
+      "outputModuleId": 152,
+      "outputId": 9,
+      "inputModuleId": 155,
+      "inputId": 20,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15319,
+      "outputModuleId": 152,
+      "outputId": 11,
+      "inputModuleId": 155,
+      "inputId": 21,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15320,
+      "outputModuleId": 152,
+      "outputId": 13,
+      "inputModuleId": 155,
+      "inputId": 22,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15322,
+      "outputModuleId": 177,
+      "outputId": 0,
+      "inputModuleId": 166,
+      "inputId": 9,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15323,
+      "outputModuleId": 177,
+      "outputId": 2,
+      "inputModuleId": 166,
+      "inputId": 10,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15324,
+      "outputModuleId": 177,
+      "outputId": 4,
+      "inputModuleId": 166,
+      "inputId": 11,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15325,
+      "outputModuleId": 177,
+      "outputId": 6,
+      "inputModuleId": 166,
+      "inputId": 12,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15326,
+      "outputModuleId": 177,
+      "outputId": 8,
+      "inputModuleId": 166,
+      "inputId": 13,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15327,
+      "outputModuleId": 177,
+      "outputId": 10,
+      "inputModuleId": 166,
+      "inputId": 14,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15328,
+      "outputModuleId": 177,
+      "outputId": 12,
+      "inputModuleId": 166,
+      "inputId": 15,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15329,
+      "outputModuleId": 177,
+      "outputId": 14,
+      "inputModuleId": 166,
+      "inputId": 16,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15331,
+      "outputModuleId": 179,
+      "outputId": 3,
+      "inputModuleId": 155,
+      "inputId": 27,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15332,
+      "outputModuleId": 179,
+      "outputId": 5,
+      "inputModuleId": 155,
+      "inputId": 28,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15333,
+      "outputModuleId": 179,
+      "outputId": 7,
+      "inputModuleId": 155,
+      "inputId": 29,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15334,
+      "outputModuleId": 179,
+      "outputId": 9,
+      "inputModuleId": 155,
+      "inputId": 30,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15335,
+      "outputModuleId": 179,
+      "outputId": 11,
+      "inputModuleId": 155,
+      "inputId": 31,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15336,
+      "outputModuleId": 179,
+      "outputId": 13,
+      "inputModuleId": 155,
+      "inputId": 32,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15337,
+      "outputModuleId": 179,
+      "outputId": 15,
+      "inputModuleId": 155,
+      "inputId": 33,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15388,
+      "outputModuleId": 192,
+      "outputId": 0,
+      "inputModuleId": 173,
+      "inputId": 0,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15390,
+      "outputModuleId": 191,
+      "outputId": 0,
+      "inputModuleId": 173,
+      "inputId": 1,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15391,
+      "outputModuleId": 190,
+      "outputId": 0,
+      "inputModuleId": 173,
+      "inputId": 2,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15392,
+      "outputModuleId": 189,
+      "outputId": 0,
+      "inputModuleId": 173,
+      "inputId": 3,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15393,
+      "outputModuleId": 188,
+      "outputId": 0,
+      "inputModuleId": 173,
+      "inputId": 4,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15394,
+      "outputModuleId": 187,
+      "outputId": 0,
+      "inputModuleId": 173,
+      "inputId": 5,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15395,
+      "outputModuleId": 186,
+      "outputId": 0,
+      "inputModuleId": 173,
+      "inputId": 6,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15396,
+      "outputModuleId": 182,
+      "outputId": 0,
+      "inputModuleId": 173,
+      "inputId": 7,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15304,
+      "outputModuleId": 166,
+      "outputId": 0,
+      "inputModuleId": 155,
+      "inputId": 40,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15321,
+      "outputModuleId": 152,
+      "outputId": 15,
+      "inputModuleId": 155,
+      "inputId": 23,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15406,
+      "outputModuleId": 155,
+      "outputId": 4,
+      "inputModuleId": 168,
+      "inputId": 0,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15407,
+      "outputModuleId": 155,
+      "outputId": 5,
+      "inputModuleId": 168,
+      "inputId": 2,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15408,
+      "outputModuleId": 168,
+      "outputId": 0,
+      "inputModuleId": 155,
+      "inputId": 38,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15409,
+      "outputModuleId": 168,
+      "outputId": 2,
+      "inputModuleId": 155,
+      "inputId": 39,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15330,
+      "outputModuleId": 179,
+      "outputId": 1,
+      "inputModuleId": 155,
+      "inputId": 26,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15419,
+      "outputModuleId": 152,
+      "outputId": 1,
+      "inputModuleId": 155,
+      "inputId": 16,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15420,
+      "outputModuleId": 199,
+      "outputId": 0,
+      "inputModuleId": 192,
+      "inputId": 1,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15421,
+      "outputModuleId": 199,
+      "outputId": 3,
+      "inputModuleId": 192,
+      "inputId": 2,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15424,
+      "outputModuleId": 199,
+      "outputId": 8,
+      "inputModuleId": 192,
+      "inputId": 5,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15425,
+      "outputModuleId": 199,
+      "outputId": 11,
+      "inputModuleId": 192,
+      "inputId": 6,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15426,
+      "outputModuleId": 199,
+      "outputId": 13,
+      "inputModuleId": 192,
+      "inputId": 7,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15429,
+      "outputModuleId": 201,
+      "outputId": 0,
+      "inputModuleId": 192,
+      "inputId": 9,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15430,
+      "outputModuleId": 201,
+      "outputId": 3,
+      "inputModuleId": 192,
+      "inputId": 10,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15431,
+      "outputModuleId": 201,
+      "outputId": 5,
+      "inputModuleId": 192,
+      "inputId": 11,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15432,
+      "outputModuleId": 201,
+      "outputId": 7,
+      "inputModuleId": 192,
+      "inputId": 12,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15433,
+      "outputModuleId": 201,
+      "outputId": 8,
+      "inputModuleId": 192,
+      "inputId": 13,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15434,
+      "outputModuleId": 201,
+      "outputId": 11,
+      "inputModuleId": 192,
+      "inputId": 14,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15435,
+      "outputModuleId": 201,
+      "outputId": 13,
+      "inputModuleId": 192,
+      "inputId": 15,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15436,
+      "outputModuleId": 201,
+      "outputId": 15,
+      "inputModuleId": 192,
+      "inputId": 16,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15437,
+      "outputModuleId": 202,
+      "outputId": 0,
+      "inputModuleId": 191,
+      "inputId": 1,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15438,
+      "outputModuleId": 202,
+      "outputId": 3,
+      "inputModuleId": 191,
+      "inputId": 2,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15439,
+      "outputModuleId": 202,
+      "outputId": 5,
+      "inputModuleId": 191,
+      "inputId": 3,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15440,
+      "outputModuleId": 202,
+      "outputId": 7,
+      "inputModuleId": 191,
+      "inputId": 4,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15441,
+      "outputModuleId": 202,
+      "outputId": 8,
+      "inputModuleId": 191,
+      "inputId": 5,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15442,
+      "outputModuleId": 202,
+      "outputId": 11,
+      "inputModuleId": 191,
+      "inputId": 6,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15443,
+      "outputModuleId": 202,
+      "outputId": 13,
+      "inputModuleId": 191,
+      "inputId": 7,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15444,
+      "outputModuleId": 202,
+      "outputId": 15,
+      "inputModuleId": 191,
+      "inputId": 8,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15445,
+      "outputModuleId": 203,
+      "outputId": 0,
+      "inputModuleId": 191,
+      "inputId": 9,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15446,
+      "outputModuleId": 203,
+      "outputId": 3,
+      "inputModuleId": 191,
+      "inputId": 10,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15447,
+      "outputModuleId": 203,
+      "outputId": 5,
+      "inputModuleId": 191,
+      "inputId": 11,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15448,
+      "outputModuleId": 203,
+      "outputId": 7,
+      "inputModuleId": 191,
+      "inputId": 12,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15449,
+      "outputModuleId": 203,
+      "outputId": 8,
+      "inputModuleId": 191,
+      "inputId": 13,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15450,
+      "outputModuleId": 203,
+      "outputId": 11,
+      "inputModuleId": 191,
+      "inputId": 14,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15451,
+      "outputModuleId": 203,
+      "outputId": 13,
+      "inputModuleId": 191,
+      "inputId": 15,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15452,
+      "outputModuleId": 203,
+      "outputId": 15,
+      "inputModuleId": 191,
+      "inputId": 16,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15453,
+      "outputModuleId": 204,
+      "outputId": 0,
+      "inputModuleId": 190,
+      "inputId": 1,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15454,
+      "outputModuleId": 204,
+      "outputId": 3,
+      "inputModuleId": 190,
+      "inputId": 2,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15455,
+      "outputModuleId": 204,
+      "outputId": 5,
+      "inputModuleId": 190,
+      "inputId": 3,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15456,
+      "outputModuleId": 204,
+      "outputId": 7,
+      "inputModuleId": 190,
+      "inputId": 4,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15457,
+      "outputModuleId": 204,
+      "outputId": 8,
+      "inputModuleId": 190,
+      "inputId": 5,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15458,
+      "outputModuleId": 204,
+      "outputId": 11,
+      "inputModuleId": 190,
+      "inputId": 6,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15459,
+      "outputModuleId": 204,
+      "outputId": 13,
+      "inputModuleId": 190,
+      "inputId": 7,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15460,
+      "outputModuleId": 204,
+      "outputId": 15,
+      "inputModuleId": 190,
+      "inputId": 8,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15462,
+      "outputModuleId": 205,
+      "outputId": 3,
+      "inputModuleId": 190,
+      "inputId": 10,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15463,
+      "outputModuleId": 205,
+      "outputId": 5,
+      "inputModuleId": 190,
+      "inputId": 11,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15464,
+      "outputModuleId": 205,
+      "outputId": 7,
+      "inputModuleId": 190,
+      "inputId": 12,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15465,
+      "outputModuleId": 205,
+      "outputId": 8,
+      "inputModuleId": 190,
+      "inputId": 13,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15466,
+      "outputModuleId": 205,
+      "outputId": 11,
+      "inputModuleId": 190,
+      "inputId": 14,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15467,
+      "outputModuleId": 205,
+      "outputId": 13,
+      "inputModuleId": 190,
+      "inputId": 15,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15468,
+      "outputModuleId": 205,
+      "outputId": 15,
+      "inputModuleId": 190,
+      "inputId": 16,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15469,
+      "outputModuleId": 206,
+      "outputId": 0,
+      "inputModuleId": 189,
+      "inputId": 1,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15470,
+      "outputModuleId": 206,
+      "outputId": 3,
+      "inputModuleId": 189,
+      "inputId": 2,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15471,
+      "outputModuleId": 206,
+      "outputId": 5,
+      "inputModuleId": 189,
+      "inputId": 3,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15472,
+      "outputModuleId": 206,
+      "outputId": 7,
+      "inputModuleId": 189,
+      "inputId": 4,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15473,
+      "outputModuleId": 206,
+      "outputId": 8,
+      "inputModuleId": 189,
+      "inputId": 5,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15474,
+      "outputModuleId": 206,
+      "outputId": 11,
+      "inputModuleId": 189,
+      "inputId": 6,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15475,
+      "outputModuleId": 206,
+      "outputId": 13,
+      "inputModuleId": 189,
+      "inputId": 7,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15476,
+      "outputModuleId": 206,
+      "outputId": 15,
+      "inputModuleId": 189,
+      "inputId": 8,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15477,
+      "outputModuleId": 207,
+      "outputId": 0,
+      "inputModuleId": 189,
+      "inputId": 9,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15478,
+      "outputModuleId": 207,
+      "outputId": 8,
+      "inputModuleId": 189,
+      "inputId": 13,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15479,
+      "outputModuleId": 207,
+      "outputId": 15,
+      "inputModuleId": 189,
+      "inputId": 16,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15480,
+      "outputModuleId": 207,
+      "outputId": 13,
+      "inputModuleId": 189,
+      "inputId": 15,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15481,
+      "outputModuleId": 207,
+      "outputId": 11,
+      "inputModuleId": 189,
+      "inputId": 14,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15482,
+      "outputModuleId": 207,
+      "outputId": 3,
+      "inputModuleId": 189,
+      "inputId": 10,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15483,
+      "outputModuleId": 207,
+      "outputId": 5,
+      "inputModuleId": 189,
+      "inputId": 11,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15484,
+      "outputModuleId": 207,
+      "outputId": 7,
+      "inputModuleId": 189,
+      "inputId": 12,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15485,
+      "outputModuleId": 208,
+      "outputId": 0,
+      "inputModuleId": 188,
+      "inputId": 1,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15486,
+      "outputModuleId": 208,
+      "outputId": 8,
+      "inputModuleId": 188,
+      "inputId": 5,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15487,
+      "outputModuleId": 208,
+      "outputId": 3,
+      "inputModuleId": 188,
+      "inputId": 2,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15488,
+      "outputModuleId": 208,
+      "outputId": 5,
+      "inputModuleId": 188,
+      "inputId": 3,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15489,
+      "outputModuleId": 208,
+      "outputId": 7,
+      "inputModuleId": 188,
+      "inputId": 4,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15490,
+      "outputModuleId": 208,
+      "outputId": 11,
+      "inputModuleId": 188,
+      "inputId": 6,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15491,
+      "outputModuleId": 208,
+      "outputId": 13,
+      "inputModuleId": 188,
+      "inputId": 7,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15492,
+      "outputModuleId": 208,
+      "outputId": 15,
+      "inputModuleId": 188,
+      "inputId": 8,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15549,
+      "outputModuleId": 220,
+      "outputId": 0,
+      "inputModuleId": 200,
+      "inputId": 8,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15550,
+      "outputModuleId": 221,
+      "outputId": 0,
+      "inputModuleId": 200,
+      "inputId": 9,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15553,
+      "outputModuleId": 216,
+      "outputId": 1,
+      "inputModuleId": 220,
+      "inputId": 1,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15554,
+      "outputModuleId": 216,
+      "outputId": 3,
+      "inputModuleId": 220,
+      "inputId": 2,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15555,
+      "outputModuleId": 216,
+      "outputId": 5,
+      "inputModuleId": 220,
+      "inputId": 3,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15556,
+      "outputModuleId": 216,
+      "outputId": 7,
+      "inputModuleId": 220,
+      "inputId": 4,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15557,
+      "outputModuleId": 216,
+      "outputId": 9,
+      "inputModuleId": 220,
+      "inputId": 5,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15558,
+      "outputModuleId": 216,
+      "outputId": 11,
+      "inputModuleId": 220,
+      "inputId": 6,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15559,
+      "outputModuleId": 216,
+      "outputId": 13,
+      "inputModuleId": 220,
+      "inputId": 7,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15560,
+      "outputModuleId": 216,
+      "outputId": 15,
+      "inputModuleId": 220,
+      "inputId": 8,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15561,
+      "outputModuleId": 217,
+      "outputId": 1,
+      "inputModuleId": 220,
+      "inputId": 9,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15562,
+      "outputModuleId": 217,
+      "outputId": 3,
+      "inputModuleId": 220,
+      "inputId": 10,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15563,
+      "outputModuleId": 217,
+      "outputId": 5,
+      "inputModuleId": 220,
+      "inputId": 11,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15564,
+      "outputModuleId": 217,
+      "outputId": 7,
+      "inputModuleId": 220,
+      "inputId": 12,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15565,
+      "outputModuleId": 217,
+      "outputId": 9,
+      "inputModuleId": 220,
+      "inputId": 13,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15566,
+      "outputModuleId": 217,
+      "outputId": 11,
+      "inputModuleId": 220,
+      "inputId": 14,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15567,
+      "outputModuleId": 217,
+      "outputId": 13,
+      "inputModuleId": 220,
+      "inputId": 15,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15568,
+      "outputModuleId": 217,
+      "outputId": 15,
+      "inputModuleId": 220,
+      "inputId": 16,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15569,
+      "outputModuleId": 222,
+      "outputId": 1,
+      "inputModuleId": 221,
+      "inputId": 1,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15570,
+      "outputModuleId": 222,
+      "outputId": 3,
+      "inputModuleId": 221,
+      "inputId": 2,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15571,
+      "outputModuleId": 222,
+      "outputId": 5,
+      "inputModuleId": 221,
+      "inputId": 3,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15572,
+      "outputModuleId": 222,
+      "outputId": 7,
+      "inputModuleId": 221,
+      "inputId": 4,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15573,
+      "outputModuleId": 222,
+      "outputId": 9,
+      "inputModuleId": 221,
+      "inputId": 5,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15574,
+      "outputModuleId": 222,
+      "outputId": 11,
+      "inputModuleId": 221,
+      "inputId": 6,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15575,
+      "outputModuleId": 222,
+      "outputId": 13,
+      "inputModuleId": 221,
+      "inputId": 7,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15576,
+      "outputModuleId": 222,
+      "outputId": 15,
+      "inputModuleId": 221,
+      "inputId": 8,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15577,
+      "outputModuleId": 223,
+      "outputId": 1,
+      "inputModuleId": 221,
+      "inputId": 9,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15578,
+      "outputModuleId": 223,
+      "outputId": 3,
+      "inputModuleId": 221,
+      "inputId": 10,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15579,
+      "outputModuleId": 223,
+      "outputId": 5,
+      "inputModuleId": 221,
+      "inputId": 11,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15580,
+      "outputModuleId": 223,
+      "outputId": 7,
+      "inputModuleId": 221,
+      "inputId": 12,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15581,
+      "outputModuleId": 223,
+      "outputId": 9,
+      "inputModuleId": 221,
+      "inputId": 13,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15582,
+      "outputModuleId": 223,
+      "outputId": 11,
+      "inputModuleId": 221,
+      "inputId": 14,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15583,
+      "outputModuleId": 223,
+      "outputId": 13,
+      "inputModuleId": 221,
+      "inputId": 15,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15584,
+      "outputModuleId": 223,
+      "outputId": 15,
+      "inputModuleId": 221,
+      "inputId": 16,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15585,
+      "outputModuleId": 224,
+      "outputId": 0,
+      "inputModuleId": 200,
+      "inputId": 10,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15597,
+      "outputModuleId": 155,
+      "outputId": 2,
+      "inputModuleId": 227,
+      "inputId": 0,
+      "color": "#c91847"
+    },
+    {
+      "id": 15598,
+      "outputModuleId": 155,
+      "outputId": 3,
+      "inputModuleId": 227,
+      "inputId": 1,
+      "color": "#c91847"
+    },
+    {
+      "id": 15589,
+      "outputModuleId": 226,
+      "outputId": 0,
+      "inputModuleId": 224,
+      "inputId": 1,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15590,
+      "outputModuleId": 226,
+      "outputId": 2,
+      "inputModuleId": 224,
+      "inputId": 2,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15591,
+      "outputModuleId": 226,
+      "outputId": 4,
+      "inputModuleId": 224,
+      "inputId": 3,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15592,
+      "outputModuleId": 226,
+      "outputId": 6,
+      "inputModuleId": 224,
+      "inputId": 4,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15593,
+      "outputModuleId": 226,
+      "outputId": 8,
+      "inputModuleId": 224,
+      "inputId": 5,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15594,
+      "outputModuleId": 226,
+      "outputId": 10,
+      "inputModuleId": 224,
+      "inputId": 6,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15595,
+      "outputModuleId": 226,
+      "outputId": 12,
+      "inputModuleId": 224,
+      "inputId": 7,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15596,
+      "outputModuleId": 226,
+      "outputId": 14,
+      "inputModuleId": 224,
+      "inputId": 8,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15611,
+      "outputModuleId": 199,
+      "outputId": 5,
+      "inputModuleId": 192,
+      "inputId": 3,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15613,
+      "outputModuleId": 199,
+      "outputId": 15,
+      "inputModuleId": 192,
+      "inputId": 8,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15615,
+      "outputModuleId": 199,
+      "outputId": 7,
+      "inputModuleId": 192,
+      "inputId": 4,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15461,
+      "outputModuleId": 205,
+      "outputId": 0,
+      "inputModuleId": 190,
+      "inputId": 9,
+      "color": "#0986ad"
+    },
+    {
+      "id": 16288,
+      "outputModuleId": 7966,
+      "outputId": 0,
+      "inputModuleId": 188,
+      "inputId": 9,
+      "color": "#0986ad"
+    },
+    {
+      "id": 16289,
+      "outputModuleId": 7966,
+      "outputId": 3,
+      "inputModuleId": 188,
+      "inputId": 10,
+      "color": "#0986ad"
+    },
+    {
+      "id": 16290,
+      "outputModuleId": 7966,
+      "outputId": 5,
+      "inputModuleId": 188,
+      "inputId": 11,
+      "color": "#0986ad"
+    },
+    {
+      "id": 16291,
+      "outputModuleId": 7966,
+      "outputId": 7,
+      "inputModuleId": 188,
+      "inputId": 12,
+      "color": "#0986ad"
+    },
+    {
+      "id": 16292,
+      "outputModuleId": 7966,
+      "outputId": 8,
+      "inputModuleId": 188,
+      "inputId": 13,
+      "color": "#0986ad"
+    },
+    {
+      "id": 16293,
+      "outputModuleId": 7966,
+      "outputId": 11,
+      "inputModuleId": 188,
+      "inputId": 14,
+      "color": "#0986ad"
+    },
+    {
+      "id": 16294,
+      "outputModuleId": 7966,
+      "outputId": 13,
+      "inputModuleId": 188,
+      "inputId": 15,
+      "color": "#0986ad"
+    },
+    {
+      "id": 16295,
+      "outputModuleId": 7966,
+      "outputId": 15,
+      "inputModuleId": 188,
+      "inputId": 16,
+      "color": "#0986ad"
+    },
+    {
+      "id": 16305,
+      "outputModuleId": 7970,
+      "outputId": 0,
+      "inputModuleId": 187,
+      "inputId": 1,
+      "color": "#0986ad"
+    },
+    {
+      "id": 16306,
+      "outputModuleId": 7970,
+      "outputId": 3,
+      "inputModuleId": 187,
+      "inputId": 2,
+      "color": "#0986ad"
+    },
+    {
+      "id": 16307,
+      "outputModuleId": 7970,
+      "outputId": 5,
+      "inputModuleId": 187,
+      "inputId": 3,
+      "color": "#0986ad"
+    },
+    {
+      "id": 16308,
+      "outputModuleId": 7970,
+      "outputId": 7,
+      "inputModuleId": 187,
+      "inputId": 4,
+      "color": "#0986ad"
+    },
+    {
+      "id": 16309,
+      "outputModuleId": 7970,
+      "outputId": 8,
+      "inputModuleId": 187,
+      "inputId": 5,
+      "color": "#0986ad"
+    },
+    {
+      "id": 16310,
+      "outputModuleId": 7970,
+      "outputId": 11,
+      "inputModuleId": 187,
+      "inputId": 6,
+      "color": "#0986ad"
+    },
+    {
+      "id": 16311,
+      "outputModuleId": 7970,
+      "outputId": 13,
+      "inputModuleId": 187,
+      "inputId": 7,
+      "color": "#0986ad"
+    },
+    {
+      "id": 16312,
+      "outputModuleId": 7970,
+      "outputId": 15,
+      "inputModuleId": 187,
+      "inputId": 8,
+      "color": "#0986ad"
+    },
+    {
+      "id": 16313,
+      "outputModuleId": 7971,
+      "outputId": 0,
+      "inputModuleId": 187,
+      "inputId": 9,
+      "color": "#0986ad"
+    },
+    {
+      "id": 16314,
+      "outputModuleId": 7971,
+      "outputId": 3,
+      "inputModuleId": 187,
+      "inputId": 10,
+      "color": "#0986ad"
+    },
+    {
+      "id": 16315,
+      "outputModuleId": 7971,
+      "outputId": 5,
+      "inputModuleId": 187,
+      "inputId": 11,
+      "color": "#0986ad"
+    },
+    {
+      "id": 16316,
+      "outputModuleId": 7971,
+      "outputId": 7,
+      "inputModuleId": 187,
+      "inputId": 12,
+      "color": "#0986ad"
+    },
+    {
+      "id": 16317,
+      "outputModuleId": 7971,
+      "outputId": 8,
+      "inputModuleId": 187,
+      "inputId": 13,
+      "color": "#0986ad"
+    },
+    {
+      "id": 16318,
+      "outputModuleId": 7971,
+      "outputId": 11,
+      "inputModuleId": 187,
+      "inputId": 14,
+      "color": "#0986ad"
+    },
+    {
+      "id": 16319,
+      "outputModuleId": 7971,
+      "outputId": 13,
+      "inputModuleId": 187,
+      "inputId": 15,
+      "color": "#0986ad"
+    },
+    {
+      "id": 16320,
+      "outputModuleId": 7971,
+      "outputId": 15,
+      "inputModuleId": 187,
+      "inputId": 16,
+      "color": "#0986ad"
+    },
+    {
+      "id": 16321,
+      "outputModuleId": 7972,
+      "outputId": 0,
+      "inputModuleId": 186,
+      "inputId": 1,
+      "color": "#0986ad"
+    },
+    {
+      "id": 16322,
+      "outputModuleId": 7972,
+      "outputId": 3,
+      "inputModuleId": 186,
+      "inputId": 2,
+      "color": "#0986ad"
+    },
+    {
+      "id": 16323,
+      "outputModuleId": 7972,
+      "outputId": 5,
+      "inputModuleId": 186,
+      "inputId": 3,
+      "color": "#0986ad"
+    },
+    {
+      "id": 16324,
+      "outputModuleId": 7972,
+      "outputId": 7,
+      "inputModuleId": 186,
+      "inputId": 4,
+      "color": "#0986ad"
+    },
+    {
+      "id": 16325,
+      "outputModuleId": 7972,
+      "outputId": 8,
+      "inputModuleId": 186,
+      "inputId": 5,
+      "color": "#0986ad"
+    },
+    {
+      "id": 16326,
+      "outputModuleId": 7972,
+      "outputId": 11,
+      "inputModuleId": 186,
+      "inputId": 6,
+      "color": "#0986ad"
+    },
+    {
+      "id": 16327,
+      "outputModuleId": 7972,
+      "outputId": 13,
+      "inputModuleId": 186,
+      "inputId": 7,
+      "color": "#0986ad"
+    },
+    {
+      "id": 16328,
+      "outputModuleId": 7972,
+      "outputId": 15,
+      "inputModuleId": 186,
+      "inputId": 8,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15525,
+      "outputModuleId": 7973,
+      "outputId": 0,
+      "inputModuleId": 186,
+      "inputId": 9,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15526,
+      "outputModuleId": 7973,
+      "outputId": 3,
+      "inputModuleId": 186,
+      "inputId": 10,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15527,
+      "outputModuleId": 7973,
+      "outputId": 5,
+      "inputModuleId": 186,
+      "inputId": 11,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15528,
+      "outputModuleId": 7973,
+      "outputId": 7,
+      "inputModuleId": 186,
+      "inputId": 12,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15529,
+      "outputModuleId": 7973,
+      "outputId": 8,
+      "inputModuleId": 186,
+      "inputId": 13,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15530,
+      "outputModuleId": 7973,
+      "outputId": 11,
+      "inputModuleId": 186,
+      "inputId": 14,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15531,
+      "outputModuleId": 7973,
+      "outputId": 13,
+      "inputModuleId": 186,
+      "inputId": 15,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15532,
+      "outputModuleId": 7973,
+      "outputId": 15,
+      "inputModuleId": 186,
+      "inputId": 16,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15533,
+      "outputModuleId": 7974,
+      "outputId": 0,
+      "inputModuleId": 182,
+      "inputId": 1,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15534,
+      "outputModuleId": 7974,
+      "outputId": 3,
+      "inputModuleId": 182,
+      "inputId": 2,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15535,
+      "outputModuleId": 7974,
+      "outputId": 5,
+      "inputModuleId": 182,
+      "inputId": 3,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15536,
+      "outputModuleId": 7974,
+      "outputId": 7,
+      "inputModuleId": 182,
+      "inputId": 4,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15537,
+      "outputModuleId": 7974,
+      "outputId": 8,
+      "inputModuleId": 182,
+      "inputId": 5,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15538,
+      "outputModuleId": 7974,
+      "outputId": 11,
+      "inputModuleId": 182,
+      "inputId": 6,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15539,
+      "outputModuleId": 7974,
+      "outputId": 13,
+      "inputModuleId": 182,
+      "inputId": 7,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15540,
+      "outputModuleId": 7974,
+      "outputId": 15,
+      "inputModuleId": 182,
+      "inputId": 8,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15541,
+      "outputModuleId": 7975,
+      "outputId": 0,
+      "inputModuleId": 182,
+      "inputId": 9,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15542,
+      "outputModuleId": 7975,
+      "outputId": 3,
+      "inputModuleId": 182,
+      "inputId": 10,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15543,
+      "outputModuleId": 7975,
+      "outputId": 5,
+      "inputModuleId": 182,
+      "inputId": 11,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15544,
+      "outputModuleId": 7975,
+      "outputId": 7,
+      "inputModuleId": 182,
+      "inputId": 12,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15545,
+      "outputModuleId": 7975,
+      "outputId": 8,
+      "inputModuleId": 182,
+      "inputId": 13,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15546,
+      "outputModuleId": 7975,
+      "outputId": 11,
+      "inputModuleId": 182,
+      "inputId": 14,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15547,
+      "outputModuleId": 7975,
+      "outputId": 13,
+      "inputModuleId": 182,
+      "inputId": 15,
+      "color": "#0986ad"
+    },
+    {
+      "id": 15548,
+      "outputModuleId": 7975,
+      "outputId": 15,
+      "inputModuleId": 182,
+      "inputId": 16,
+      "color": "#0986ad"
+    }
+  ]
+}
